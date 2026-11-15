@@ -1,5 +1,16 @@
 # Signalwerk — the agent-ready sales pipeline
 
+**A WebMCP demo by [Werkstern](https://werkstern.de), Mainz.**
+
+[Live demo](https://markt-alarm.github.io/Signalwerk/) · [Werkstern](https://werkstern.de) · [Contact](https://werkstern.de/kontakt)
+
+Eine technische Arbeitsprobe: Menschen und KI-Agenten bearbeiten gemeinsam eine
+B2B-Vertriebspipeline. Elf Werkzeuge machen die Abläufe nachvollziehbar;
+Follow-up-Entwürfe warten auf menschliche Prüfung. Es werden keine Nachrichten
+versendet. Die Anwendung ist eine lokale Browser-Demo, kein gehostetes CRM.
+
+---
+
 A lightweight B2B pipeline board that publishes its core functions as **first-party
 WebMCP tools**, so any AI agent — ChatGPT's in-app browser, Chrome with the WebMCP
 testing flag — can work the pipeline *together with* the human instead of
